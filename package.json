@@ -1,0 +1,27 @@
+{
+  "name": "calculadora-cordova",
+  "version": "1.0.0",
+  "description": "Calculadora simples feita com Apache Cordova",
+  "main": "index.js",
+  "scripts": {
+    "start": "cordova run browser",
+    "build:browser": "cordova build browser",
+    "build:android": "cordova build android",
+    "check:android": "cordova requirements android"
+  },
+  "keywords": [
+    "cordova",
+    "calculadora",
+    "mobile"
+  ],
+  "author": "Grupo do Seminário",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-browser": "^7.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "browser"
+    ]
+  }
+}
