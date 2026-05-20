@@ -1,7 +1,5 @@
 # Calculadora em Cordova
 
-Aplicativo simples de calculadora feito com Apache Cordova, HTML, CSS e JavaScript.
-
 ## Requisitos
 
 - Node.js instalado
