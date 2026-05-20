@@ -1,7 +1,6 @@
 {
   "name": "calculadora-cordova",
   "version": "1.0.0",
-  "description": "Calculadora simples feita com Apache Cordova",
   "main": "index.js",
   "scripts": {
     "start": "cordova run browser",
@@ -14,7 +13,6 @@
     "calculadora",
     "mobile"
   ],
-  "author": "Grupo do Seminário",
   "license": "MIT",
   "devDependencies": {
     "cordova-browser": "^7.0.0"
