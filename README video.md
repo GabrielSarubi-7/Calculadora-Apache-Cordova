@@ -6,6 +6,9 @@
 - Apache Cordova CLI instalado globalmente
 - Para Android: Android Studio, Android SDK, JDK e Gradle configurados
 
+## Demonstração em vídeo
+[![Demonstração da Calculadora em Cordova](https://img.youtube.com/vi/BAoDviw08kY/hqdefault.jpg)](https://www.youtube.com/watch?v=BAoDviw08kY)
+
 ## Instalação
 
 Instale o Cordova globalmente:
